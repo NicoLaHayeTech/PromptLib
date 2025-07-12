@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Blog Post Idea Generator",
+    "content": "Generate 10 blog post ideas about [your topic]"
+  },
+  {
+    "label": "Rewrite Text Professionally",
+    "content": "Rewrite the following text to sound professional:\n\n[your text]"
+  },
+  {
+    "label": "Debug Python Code",
+    "content": "Find and fix bugs in this Python code:\n\n[your code]"
+  },
+  {
+    "label": "Regex Explanation",
+    "content": "Explain what this regular expression does:\n\n[your regex]"
+  }
+]
